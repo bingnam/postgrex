@@ -32,6 +32,3 @@ env:
     - PGVERSION=9.1
     - PGVERSION=9.2
     - PGVERSION=9.3
-notifications:
-  recipients:
-    - eric.meadows.jonsson@gmail.com
